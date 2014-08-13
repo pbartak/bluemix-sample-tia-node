@@ -1,0 +1,10 @@
+{
+"comment": "sample config.json file",
+"twitter": {
+"consumer_key": "B2lXqbXleUBHZGpEHKtpIeSpI",
+"consumer_secret": "pwrfrBG4qdqPs1DEp4Mg87mrOThPT7VYY4kJ3BcXwWFD4ko9Ry"
+},
+"klout": {
+"developer_key": "developer key"
+}
+}
